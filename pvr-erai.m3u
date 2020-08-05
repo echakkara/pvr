@@ -1,33 +1,4 @@
 #EXTM3U 
-#EXTINF:0 tvg-id="1" tvg-name="Sun TV HD" group-title="Tamil;Entertainment" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" radio="false",Sun TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://192.168.0.100:48996/play/Sun_TV_HD/master.m3u8?maxq=1200
-
-#EXTINF:0 tvg-id="4" tvg-name="KTV HD" group-title="Tamil;Entertainment" tvg-chno="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" radio="false",KTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://192.168.0.100:48996/play/KTV_HD/master.m3u8?maxq=1200
-
-#EXTINF:0 tvg-id="3" tvg-name="Sun Music HD" group-title="Tamil;Entertainment" tvg-chno="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" radio="false",Sun Music HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://192.168.0.100:48996/play/Sun_Music_HD/master.m3u8?maxq=1200
-
-#EXTINF:0 tvg-id="9" tvg-name="Adithya TV" group-title="Tamil;Entertainment" tvg-chno="7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" radio="false",Adithya TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://192.168.0.100:48996/play/Adithya_TV/master.m3u8?maxq=1200
-
-#EXTINF:0 tvg-id="22" tvg-name="Polimer News 2" group-title="Tamil;News" tvg-chno="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" radio="false" catchup="default" catchup-source="plugin://plugin.video.jiotv/catchup/Polimer_News/{utc}" catchup-days="7",Polimer News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://192.168.0.100:48996/play/Polimer_News/master.m3u8?maxq=1200
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png", 3 TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
