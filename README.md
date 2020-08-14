@@ -11,10 +11,13 @@ This project contains playlist file which can be used as provider in IPTV.
   <a href="https://github.com/echakkara/pvr/releases/latest">
     <img src="https://img.shields.io/github/downloads/echakkara/pvr/total">
   </a>
-  
+  <a href="https://github.com/echakkara/pvr/releases/latest">
+    <img src="http://hits.dwyl.com/echakkara/pvr.svg">
+  </a>
  </p>
  
  <br>
+
 
 ## Installation
 
