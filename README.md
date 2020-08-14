@@ -1,5 +1,5 @@
 # PVR IPTV Playlist 
-This project contains playlist file which can be used as provider in IPTV. 
+This project contains playlist file which can be used as provider in IPTV. Playlist m3f file contains local tamil channels 
 1. Download <a href="https://github.com/echakkara/pvr/releases/latest">Playlist</a> from releases
 2. Unzip the file and use the m3u file as provider in IPTV app
 
