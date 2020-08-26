@@ -1,5 +1,5 @@
-# PVR IPTV Tamil Cable TV Playlist 
-This project contains playlist file which can be used as provider in IPTV. Playlist m3u file contains local tamil channels 
+# IPTV Tamil Local TV Channel Playlist 
+This project contains playlist file which can be used as provider in IPTV. Playlist m3u file contains 50+ local tamil channels 
 1. Download <a href="https://github.com/echakkara/pvr/releases/latest/download/playlist-tamil-local.m3u">M3U Playlist</a>. 
 2. Use the m3u file as a new provider in any IPTV app like VLC Media Player, Kodi PVR IPTV Simple Client etc.,
 3. Also you can give remote URL for the playlist. URL is case-sensitive
@@ -7,6 +7,8 @@ This project contains playlist file which can be used as provider in IPTV. Playl
 ```
 https://bit.ly/2E2uz5S
 ```
+Note: Video availability is based on the sources. If you know any source to be added, please raise issue 
+to add. If the content is open to public without expiry I can add it to playlist.
 
 <p align="center">
 <!-- Release -->
@@ -38,7 +40,7 @@ https://bit.ly/2E2uz5S
 <p align="center">
 
   <a href="https://paypal.me/eraianbanc" target="_blank">
-    <img width="200px" height="51px" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" alt="Paypal" align="left">
+  <p align="left">Paypal</p>
   </a>
 </p>
 
