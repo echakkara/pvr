@@ -35,14 +35,6 @@ to add. If the content is open to public without expiry I can add it to playlist
 4. Provide this m3u file as input in IPTV provider's settings
 <BR>
 
-## Support
-
-<p align="center">
-
-  <a href="https://paypal.me/eraianbanc" target="_blank">
-  <p align="left">Paypal</p>
-  </a>
-</p>
 
 
 
